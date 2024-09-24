@@ -1,6 +1,6 @@
 ### Boas vindas ao meu perfil 👑
 
-Meu nome é Flavio Almeida
+Meu nome é Victoria araya
 
 - Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
@@ -8,8 +8,7 @@ Meu nome é Flavio Almeida
 
 - ### Você pode entrar em contato comigo :mailbox
 
-flaviomoreirag52@gmail.com
 
-@idkn_almdws
+
 
 ![](https://media.tenor.com/xlFZTbLqs20AAAAM/itachi.gif)
